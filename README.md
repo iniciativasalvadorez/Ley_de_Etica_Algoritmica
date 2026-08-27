@@ -2,7 +2,13 @@
 
 ## Iniciativa Ciudadana para la República Mexicana
 
-> **"Subordinar la eficiencia tecnológica, la acumulación de datos y la explotación de recursos informáticos al servicio ineludible de la dignidad humana y la soberanía nacional."**
+***
+
+> **"En homenaje a los Sentimientos de la Nación de José María Morelos y Pavón y Andrés Quintana Roo en su 213 aniversario."**
+
+***
+
+> *"Subordinar la eficiencia tecnológica, la acumulación de datos y la explotación de recursos informáticos al servicio ineludible de la dignidad humana y la soberanía nacional."*
 
 ---
 
