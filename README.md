@@ -14,7 +14,7 @@
 
 ### Presentación de la Iniciativa
 
-Frente a la centralización tecnológica, la opacidad algorítmica y el extractivismo de datos por parte de corporaciones transnacionales, la presente **Iniciativa Ciudadana** propone la expedición de una Ley General de orden público e interés social. Esta norma tiene por objeto establecer un marco ético, técnico y legal soberano para regular el diseño, desarrollo, entrenamiento y operación de los sistemas de inteligencia artificial y las tecnologías cognitivo-digitales en el territorio nacional.
+Frente a la centralización tecnológica, la opacidad algorítmica y el extractivismo de datos por parte de corporaciones transnacionales, la presente **Iniciativa Ciudadana** propone la promulgación de una Ley General de orden público e interés social. Esta norma tiene por objeto establecer un marco ético, técnico y legal soberano para regular el diseño, desarrollo, entrenamiento y operación de los sistemas de inteligencia artificial y las tecnologías cognitivo-digitales en el territorio nacional.
 
 Esta propuesta de ley defiende la primacía de la persona humana sobre el automatismo y dota al Estado mexicano de las herramientas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva, la paz comunitaria y el equilibrio ecológico en la era digital.
 
@@ -23,7 +23,7 @@ Esta propuesta de ley defiende la primacía de la persona humana sobre el automa
 ### 🏛️ Los 6 Pilares de la Ley de Soberanía Tecnológica
 
 #### 1. El Patrimonio Digital Colectivo de la Nación
-Se declara como recurso estratégico e inalienable de la Patria al conocimiento y los patrones de comportamiento extraídos de las masas en el entorno digital. Ninguna corporación privada podrá realizar minería de datos ni entrenamiento de modelos fundacionales sin una licencia estatal previa; se prohíbe la fragmentación o privatización de este patrimonio colectivo mediante la aceptación forzada de "términos y condiciones" de adhesión unilateral.
+Se declara como recurso estratégico e inalienable de la Patria al conocimiento y los patrones de comportamiento extraídos de la población mexicana en el entorno digital. Ninguna corporación privada podrá realizar minería de datos ni entrenamiento de modelos fundacionales sin una licencia estatal previa; se prohíbe la fragmentación o privatización de este patrimonio colectivo mediante la aceptación forzada de "términos y condiciones" de adhesión unilateral.
 
 #### 2. El Consejo Comunitario Nacional de Ética Algorítmica (CCNEA)
 La creación de una autoridad administrativa de carácter laico, asambleario y ciudadano. Este órgano colegiado honorífico estará facultado para auditar códigos fuente, revertir decisiones automatizadas abusivas y dictar medidas cautelares inmediatas ante tecnologías que amenacen los derechos humanos o laborales de la población.
