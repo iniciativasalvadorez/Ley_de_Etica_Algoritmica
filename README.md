@@ -12,9 +12,21 @@
 
 ---
 
+<p align="center">
+  <a href="#-descarga-la-iniciativa-completa"><b>📥 DESCARGAR LEY (PDF)</b></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-presentación-ejecutiva-de-la-ley"><b>📊 VER PRESENTACIÓN (PDF)</b></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-audioguía-y-podcast-oficial"><b>🎧 ESCUCHAR PODCAST</b></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-video-explicativo-de-la-ley"><b>📺 VER VIDEO</b></a>
+</p>
+
+---
+
 ### Presentación de la Iniciativa
 
-Frente a la centralización tecnológica, la opacidad algorítmica y el extractivismo de datos por parte de corporaciones transnacionales, la presente **Iniciativa Ciudadana** propone la promulgación de una Ley General de orden público e interés social. Esta norma tiene por objeto establecer un marco ético, técnico y legal soberano para regular el diseño, desarrollo, entrenamiento y operación de los sistemas de inteligencia artificial y las tecnologías cognitivo-digitales en el territorio nacional.
+Frente a la centralización tecnológica, la opacidad algorítmica y el extractivismo de datos por parte de corporaciones transnacionales, la presente **Iniciativa Ciudadana** propone la **promulgación** de una Ley General de orden público e interés social. Esta norma tiene por objeto establecer un marco ético, técnico y legal soberano para regular el diseño, desarrollo, entrenamiento y operación de los sistemas de inteligencia artificial y las tecnologías cognitivo-digitales en el territorio nacional.
 
 Esta propuesta de ley defiende la primacía de la persona humana sobre el automatismo y dota al Estado mexicano de las herramientas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva, la paz comunitaria y el equilibrio ecológico en la era digital.
 
@@ -23,7 +35,7 @@ Esta propuesta de ley defiende la primacía de la persona humana sobre el automa
 ### 🏛️ Los 6 Pilares de la Ley de Soberanía Tecnológica
 
 #### 1. El Patrimonio Digital Colectivo de la Nación
-Se declara como recurso estratégico e inalienable de la Patria al conocimiento y los patrones de comportamiento extraídos de la población mexicana en el entorno digital. Ninguna corporación privada podrá realizar minería de datos ni entrenamiento de modelos fundacionales sin una licencia estatal previa; se prohíbe la fragmentación o privatización de este patrimonio colectivo mediante la aceptación forzada de "términos y condiciones" de adhesión unilateral.
+Se declara como recurso estratégico e inalienable de la Patria al conocimiento y los patrones de comportamiento extraídos de la **sociedad mexicana** en el entorno digital. Ninguna corporación privada podrá realizar minería de datos ni entrenamiento de modelos fundacionales sin una licencia estatal previa; se prohíbe la fragmentación o privatización de este patrimonio colectivo mediante la aceptación forzada de "términos y condiciones" de adhesión unilateral.
 
 #### 2. El Consejo Comunitario Nacional de Ética Algorítmica (CCNEA)
 La creación de una autoridad administrativa de carácter laico, asambleario y ciudadano. Este órgano colegiado honorífico estará facultado para auditar códigos fuente, revertir decisiones automatizadas abusivas y dictar medidas cautelares inmediatas ante tecnologías que amenacen los derechos humanos o laborales de la población.
@@ -35,7 +47,7 @@ Establece el principio de precaución digital. El CCNEA podrá ordenar de oficio
 Se garantiza la inviolabilidad de los procesos mentales y la actividad cerebral frente a dispositivos de realidad aumentada e interfaces cerebro-computadora de uso civil. Queda estrictamente prohibida la alteración encubierta de la voluntad, la manipulación sintética de la realidad física y la extracción o comercialización de datos neuronales sin consentimiento explícito u orden judicial.
 
 #### 5. Sello de Comercio Justo Digital y Equidad Laboral
-Un blindaje legal inexpugnable para las personas trabajadoras de etiquetado de datos y entrenamiento de sistemas de inteligencia artificial. Exige la trazabilidad de la cadena de valor tecnológica para asegurar condiciones de salud mental dignas, salarios justos y la inalienabilidad absoluta de los datos biométricos de las personas trabajadoras.
+Un blindaje legal inexpugnable para las personas trabajadoras de etiquetado de datos y entrenamiento de sistemas de inteligencia artificial. Exige la velocidad y trazabilidad de la cadena de valor tecnológica para asegurar condiciones de salud mental dignas, salarios justos y la inalienabilidad absoluta de los datos biométricos de las personas trabajadoras.
 
 #### 6. Matriz Probatoria Multidimensional y Régimen Sancionador
 La ley rompe la "caja negra" corporativa al establecer que la complejidad técnica o la autonomía del aprendizaje automático no constituyen eximentes de responsabilidad jurídica para las corporaciones. Se implementa la doctrina del levantamiento del velo corporativo algorítmico y se imponen sanciones proporcionales de hasta el 10% de los ingresos globales anuales de las unidades transnacionales infractoras.
@@ -50,9 +62,37 @@ Te invitamos a leer, estudiar y acudir al documento oficial definitivo en su for
 
 ---
 
+### 📊 Presentación Ejecutiva de la Ley
+
+Visualiza o descarga las diapositivas de síntesis visual diseñadas para comisiones legislativas y asesores de la Consejería Jurídica:
+
+*   [**Descargar Presentación Ejecutiva (Formato PDF)**](./presentacion_ejecutiva_ley.pdf)
+
+---
+
+### 🎧 Audioguía y Podcast Oficial
+
+Escucha nuestro análisis auditivo oficial sobre el trasfondo humano, soberano y laboral de la Ley:
+
+<p align="center">
+  <audio controls src="./podcast_soberania_digital.mp3" style="width: 100%; max-width: 500px;"></audio>
+</p>
+
+*   **Tema principal:** El legado de los Sentimientos de la Nación aplicados a la protección de la sociedad mexicana contra la desespecialización artificial y la opacidad algorítmica corporativa.
+
+---
+
+### 📺 Video Explicativo de la Ley
+
+Conoce de manera visual y ejecutiva los pilares de la iniciativa y su justificación soberana:
+
+*   [**Ver Presentación en Video (Enlace de YouTube)**](AQUÍ_VA_EL_ENLACE_DE_TU_VIDEO)
+
+---
+
 ### ✉️ Contacto y Participación Ciudadana
 
 Esta es una iniciativa promovida por la ciudadanía para la defensa del patrimonio digital de todas y todos los mexicanos.
 
 *   **Promovente Ciudadano:** Salvador Escudero Zendejas
-*   **Sede de Colaboración:** Cancún Quintana Roo México, República Mexicana, 2026.
+*   **Sede de Colaboración:** Ciudad de México, República Mexicana, 2026.
