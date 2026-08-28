@@ -13,17 +13,17 @@
 ---
 
 <p align="center">
-  <a href="#-el-contexto-global-solidaridad-internacional"><b>🌐 PETICIÓN GLOBAL</b></a> 
+  <a href="#peticion-global"><b>🌐 PETICIÓN GLOBAL</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-la-solución-soberana-descarga-los-documentos"><b>📥 LEY Y PRESENTACIÓN</b></a> 
+  <a href="#ley-y-presentacion"><b>📥 LEY Y PRESENTACIÓN</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-audioguía-y-video-explicativo"><b>🎙️ MULTIMEDIA</b></a> 
+  <a href="#multimedia"><b>🎙️ MULTIMEDIA</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-movilización-soberana-organización-nacional"><b>🤝 ÚNETE AL MOVIMIENTO</b></a>
+  <a href="#movilizacion-nacional"><b>🤝 ÚNETE AL MOVIMIENTO</b></a>
 </p>
 
 ---
-
+<a id="peticion-global"></a>
 ### 🌐 El Contexto Global: Solidaridad Internacional
 
 El mundo entero está levantando la voz con un reclamo justo frente a la asimetría epistémica: **"No dejemos que los multimillonarios decidan nuestro futuro"**. Nos enfrentamos a un "Efecto Invernadero Social" provocado por corporaciones transnacionales que extraen nuestra atención y nuestros datos para concentrar el poder.
@@ -33,7 +33,7 @@ Como primer paso de conciencia, te invitamos a sumarte al reclamo ético interna
 *   [**✍️ FIRMAR LA PETICIÓN INTERNACIONAL AQUÍ**](https://prohumandeclaration.com/en/sign/dont-let-billionaires-decide?utm_source=meta&utm_medium=cpc&utm_campaign=gl_aideclaration_v01_everyone&utm_content=grnt_tech&utm_term=0&source=ads-mt-ld-c120248447441150470-g120248447441170470-a120248447441160470-s0-fb&fbclid=Iwb21leAT-PnpwZG9mBWV4dG4DYWVtATAAYWRpZAGrNczCjyBmc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEexnanyJz3zJyNcJ-80fci1fx_UqhQvhM0J2gmvt3zB9G-iMkJ_sb6FoITpiI_aem_18JQREURERwCdUfInOHk4Q&utm_id=120248447441150470)
 
 ---
-
+<a id="ley-y-presentacion"></a>
 ### 🏛️ La Solución Soberana: El Proyecto de Ley para México
 
 Si bien el reclamo global es vital, en la República Mexicana hemos dado el paso definitivo: traducir esa indignación en **derecho positivo**. La presente Iniciativa Ciudadana dota al Estado mexicano de las herramientas jurídicas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva y el equilibrio ecológico.
@@ -54,7 +54,7 @@ Te invitamos a estudiar el documento oficial en su formato de técnica legislati
 *   [**📊 Descargar Presentación Ejecutiva (PDF)**](./presentacion_ejecutiva_ley.pdf)
 
 ---
-
+<a id="multimedia"></a>
 ### 🎙️ Audioguía y Video Explicativo
 
 Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros materiales de análisis profundo:
@@ -74,7 +74,7 @@ Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros
 </p>
 
 ---
-
+<a id="movilizacion-nacional"></a>
 ### 🤝 Movilización Soberana: Organización Nacional
 
 Tras el análisis de procedibilidad por parte de las autoridades del Ejecutivo Federal, se ha determinado que el cauce democrático para materializar esta ley es la vía de la **Iniciativa Ciudadana** (Artículo 71 de la Constitución Política de los Estados Unidos Mexicanos). 
