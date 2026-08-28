@@ -68,7 +68,7 @@ Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros
 
 **Video Explicativo de la Iniciativa**
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ID_DE_TU_VIDEO">
+  <a href="[https://www.youtube.com/watch?v=ID_DE_TU_VIDEO](https://youtu.be/E2CZTIBzvd8?si=yXq9eqOsCdF2QM1l)">
     <img src="https://img.youtube.com/vi/E2CZTIBzvd8/maxresdefault.jpg" alt="Ver Video Explicativo de la Ley" width="70%" style="border-radius: 8px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
   </a>
 </p>
