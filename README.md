@@ -93,5 +93,5 @@ Si tienes el tiempo y la vocación (ciudadanos, juristas, organizaciones civiles
 
 Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimonio Digital Colectivo de todas y todos los mexicanos.
 *   **Promovente Ciudadano:** Salvador Escudero Zendejas
-*   **Sede de Colaboración:** Ciudad de México, República Mexicana, 2026.
+*   **Sede de Colaboración:** Cancún Quintana Roo México, República Mexicana, 2026.
 
