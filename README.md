@@ -13,86 +13,85 @@
 ---
 
 <p align="center">
-  <a href="#-descarga-la-iniciativa-completa"><b>📥 DESCARGAR LEY (PDF)</b></a> 
+  <a href="#-el-contexto-global-solidaridad-internacional"><b>🌐 PETICIÓN GLOBAL</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-presentación-ejecutiva-de-la-ley"><b>📊 VER PRESENTACIÓN (PDF)</b></a> 
+  <a href="#-la-solución-soberana-descarga-los-documentos"><b>📥 LEY Y PRESENTACIÓN</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-audioguía-y-podcast-oficial"><b>🎧 ESCUCHAR PODCAST</b></a> 
+  <a href="#-audioguía-y-video-explicativo"><b>🎙️ MULTIMEDIA</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#-video-explicativo-de-la-ley"><b>📺 VER VIDEO</b></a>
+  <a href="#-movilización-soberana-organización-nacional"><b>🤝 ÚNETE AL MOVIMIENTO</b></a>
 </p>
 
 ---
 
-### Presentación de la Iniciativa
+### 🌐 El Contexto Global: Solidaridad Internacional
 
-Frente a la centralización tecnológica, la opacidad algorítmica y el extractivismo de datos por parte de corporaciones transnacionales, la presente **Iniciativa Ciudadana** propone la **promulgación** de una Ley General de orden público e interés social. Esta norma tiene por objeto establecer un marco ético, técnico y legal soberano para regular el diseño, desarrollo, entrenamiento y operación de los sistemas de inteligencia artificial y las tecnologías cognitivo-digitales en el territorio nacional.
+El mundo entero está levantando la voz con un reclamo justo frente a la asimetría epistémica: **"No dejemos que los multimillonarios decidan nuestro futuro"**. Nos enfrentamos a un "Efecto Invernadero Social" provocado por corporaciones transnacionales que extraen nuestra atención y nuestros datos para concentrar el poder.
 
-Esta propuesta de ley defiende la primacía de la persona humana sobre el automatismo y dota al Estado mexicano de las herramientas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva, la paz comunitaria y el equilibrio ecológico en la era digital.
+Como primer paso de conciencia, te invitamos a sumarte al reclamo ético internacional firmando la declaración global para exigir que el desarrollo tecnológico respete los derechos humanos:
 
----
-
-### 🏛️ Los 6 Pilares de la Ley de Soberanía Tecnológica
-
-#### 1. El Patrimonio Digital Colectivo de la Nación
-Se declara como recurso estratégico e inalienable de la Patria al conocimiento y los patrones de comportamiento extraídos de la **sociedad mexicana** en el entorno digital. Ninguna corporación privada podrá realizar minería de datos ni entrenamiento de modelos fundacionales sin una licencia estatal previa; se prohíbe la fragmentación o privatización de este patrimonio colectivo mediante la aceptación forzada de "términos y condiciones" de adhesión unilateral.
-
-#### 2. El Consejo Comunitario Nacional de Ética Algorítmica (CCNEA)
-La creación de una autoridad administrativa de carácter laico, asambleario y ciudadano. Este órgano colegiado honorífico estará facultado para auditar códigos fuente, revertir decisiones automatizadas abusivas y dictar medidas cautelares inmediatas ante tecnologías que amenacen los derechos humanos o laborales de la población.
-
-#### 3. Salvaguardas de Urgencia para la Niñez y la Adolescencia
-Establece el principio de precaución digital. El CCNEA podrá ordenar de oficio la suspensión técnica en 24 horas de funciones de diseño adictivas o persuasivas (como el desplazamiento continuo persistente, la reproducción automática ininterrumpida o el envío de notificaciones de inducción conductual) cuando amenacen la salud mental, el aprendizaje o la estabilidad emocional de personas menores de edad.
-
-#### 4. Protección y Bioseguridad en Neuroderechos
-Se garantiza la inviolabilidad de los procesos mentales y la actividad cerebral frente a dispositivos de realidad aumentada e interfaces cerebro-computadora de uso civil. Queda estrictamente prohibida la alteración encubierta de la voluntad, la manipulación sintética de la realidad física y la extracción o comercialización de datos neuronales sin consentimiento explícito u orden judicial.
-
-#### 5. Sello de Comercio Justo Digital y Equidad Laboral
-Un blindaje legal inexpugnable para las personas trabajadoras de etiquetado de datos y entrenamiento de sistemas de inteligencia artificial. Exige la velocidad y trazabilidad de la cadena de valor tecnológica para asegurar condiciones de salud mental dignas, salarios justos y la inalienabilidad absoluta de los datos biométricos de las personas trabajadoras.
-
-#### 6. Matriz Probatoria Multidimensional y Régimen Sancionador
-La ley rompe la "caja negra" corporativa al establecer que la complejidad técnica o la autonomía del aprendizaje automático no constituyen eximentes de responsabilidad jurídica para las corporaciones. Se implementa la doctrina del levantamiento del velo corporativo algorítmico y se imponen sanciones proporcionales de hasta el 10% de los ingresos globales anuales de las unidades transnacionales infractoras.
+*   [**✍️ FIRMAR LA PETICIÓN INTERNACIONAL AQUÍ**](https://prohumandeclaration.com/en/sign/dont-let-billionaires-decide?utm_source=meta&utm_medium=cpc&utm_campaign=gl_aideclaration_v01_everyone&utm_content=grnt_tech&utm_term=0&source=ads-mt-ld-c120248447441150470-g120248447441170470-a120248447441160470-s0-fb&fbclid=Iwb21leAT-PnpwZG9mBWV4dG4DYWVtATAAYWRpZAGrNczCjyBmc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEexnanyJz3zJyNcJ-80fci1fx_UqhQvhM0J2gmvt3zB9G-iMkJ_sb6FoITpiI_aem_18JQREURERwCdUfInOHk4Q&utm_id=120248447441150470)
 
 ---
 
-### 📥 Descarga la Iniciativa Completa
+### 🏛️ La Solución Soberana: El Proyecto de Ley para México
 
-Te invitamos a leer, estudiar y acudir al documento oficial definitivo en su formato de técnica legislativa:
+Si bien el reclamo global es vital, en la República Mexicana hemos dado el paso definitivo: traducir esa indignación en **derecho positivo**. La presente Iniciativa Ciudadana dota al Estado mexicano de las herramientas jurídicas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva y el equilibrio ecológico.
 
-*   [**Descargar Iniciativa de Ley Completa (Formato PDF)**](./iniciativa_ley_etica_algoritmica.pdf)
+**Los 6 Pilares de la Iniciativa:**
+1. **El Patrimonio Digital Colectivo de la Nación:** Prohíbe el extractivismo y declara la información agregada como un bien inalienable.
+2. **El Consejo Comunitario Nacional de Ética Algorítmica (CCNEA):** Un órgano ciudadano, asambleario y laico con facultad de auditoría sobre códigos fuente opacos.
+3. **Salvaguardas de Urgencia para la Niñez:** Suspensión inmediata de mecánicas de retención adictiva.
+4. **Protección de Neuroderechos:** Garantía de inviolabilidad mental frente a tecnologías inmersivas.
+5. **Sello de Comercio Justo Digital:** Erradicación de la explotación laboral en el etiquetado y moderación de datos.
+6. **Matriz Probatoria Multidimensional:** Sanciones proporcionales de hasta el 10% de los ingresos globales para las corporaciones infractoras.
+
+#### 📥 Descarga los Documentos Oficiales:
+
+Te invitamos a estudiar el documento oficial en su formato de técnica legislativa y nuestra síntesis ejecutiva:
+
+*   [**📄 Descargar Iniciativa de Ley Completa (PDF)**](./iniciativa_ley_etica_algoritmica.pdf)
+*   [**📊 Descargar Presentación Ejecutiva (PDF)**](./presentacion_ejecutiva_ley.pdf)
 
 ---
 
-### 📊 Presentación Ejecutiva de la Ley
+### 🎙️ Audioguía y Video Explicativo
 
-Visualiza o descarga las diapositivas de síntesis visual diseñadas para comisiones legislativas y asesores de la Consejería Jurídica:
+Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros materiales de análisis profundo:
 
-*   [**Descargar Presentación Ejecutiva (Formato PDF)**](./presentacion_ejecutiva_ley.pdf)
-
----
-
-### 🎧 Audioguía y Podcast Oficial
-
-Escucha nuestro análisis auditivo oficial sobre el trasfondo humano, soberano y laboral de la Ley:
-
+**Audioguía Oficial: El Legado de los Sentimientos de la Nación en el Siglo XXI**
 <p align="center">
-  <audio controls src="./podcast_soberania_digital.mp3" style="width: 100%; max-width: 500px;"></audio>
+  <audio controls src="./podcast_soberania_digital.m4a" style="width: 100%; max-width: 500px;"></audio>
 </p>
 
-*   **Tema principal:** El legado de los Sentimientos de la Nación aplicados a la protección de la sociedad mexicana contra la desespecialización artificial y la opacidad algorítmica corporativa.
+**Video Explicativo de la Iniciativa**
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ID_DE_TU_VIDEO">
+    <img src="https://img.youtube.com/vi/E2CZTIBzvd8/maxresdefault.jpg" alt="Ver Video Explicativo de la Ley" width="70%" style="border-radius: 8px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
+  </a>
+</p>
 
 ---
 
-### 📺 Video Explicativo de la Ley
+### 🤝 Movilización Soberana: Organización Nacional
 
-Conoce de manera visual y ejecutiva los pilares de la iniciativa y su justificación soberana:
+Tras el análisis de procedibilidad por parte de las autoridades del Ejecutivo Federal, se ha determinado que el cauce democrático para materializar esta ley es la vía de la **Iniciativa Ciudadana** (Artículo 71 de la Constitución Política de los Estados Unidos Mexicanos). 
 
-*   [**Ver Presentación en Video (Enlace de YouTube)**](AQUÍ_VA_EL_ENLACE_DE_TU_VIDEO)
+Esto exigirá recolectar el respaldo físico y verificable del 0.13% de la lista nominal de electores de nuestro país mediante los mecanismos oficiales del Instituto Nacional Electoral (INE). Te invitamos a sumarte desde ahora en la trinchera que mejor se adapte a ti:
+
+#### 1. Sigue el desarrollo de la iniciativa (Red de Alertas)
+Si deseas ser notificado el día exacto en que comience la recolección oficial de firmas ciudadanas en tu localidad por parte del INE, regístrate en nuestra red de alertas seguras. Tus datos no serán utilizados para perfilamiento predictivo ni usufructo corporativo.
+*   [**✉️ REGISTRARME EN LA RED DE ALERTAS**](https://cryptpad.fr/form/#/2/form/view/PVfEZxDNlyBwlRw9J2V-J1CVAm6s9a873B5vZ1QCY7M/)
+
+#### 2. Participa en el Comité Organizador
+Si tienes el tiempo y la vocación (ciudadanos, juristas, organizaciones civiles, estudiantes) para ayudarnos a coordinar la logística, la tramitología y la movilización territorial en tu entidad federativa, necesitamos tu fuerza en la primera línea.
+*   **Escríbenos para integrar el Comité Organizador a:** gigasalvadorez@gmail.com
 
 ---
 
-### ✉️ Contacto y Participación Ciudadana
+### ✉️ Contacto y Promotoría
 
-Esta es una iniciativa promovida por la ciudadanía para la defensa del patrimonio digital de todas y todos los mexicanos.
-
+Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimonio Digital Colectivo de todas y todos los mexicanos.
 *   **Promovente Ciudadano:** Salvador Escudero Zendejas
 *   **Sede de Colaboración:** Ciudad de México, República Mexicana, 2026.
+
