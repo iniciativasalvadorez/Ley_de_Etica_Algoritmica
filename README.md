@@ -1,8 +1,7 @@
 <!-- BANNER Y ENCABEZADO PRINCIPAL -->
 <div align="center">
 
-<h1>🏛️ Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana</h1>
-<h3><i>de las Tecnologías Cognitivo-Digitales</i></h3>
+<h1>🏛️ Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana de las Tecnologías Cognitivo-Digitales</h1>
 <p><b>Iniciativa Ciudadana para la República Mexicana</b></p>
 
 <hr>
