@@ -162,9 +162,9 @@ Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimon
 * **Promovente Ciudadano:** Salvador Escudero Zendejas
 * **Sede de Colaboración:** Cancún, Quintana Roo, México, 2026.
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 <p><b>La Patria y El Patrimonio Digital Colectivo de la Nación no se venden, se aman y se defienden.</b></p>
 
