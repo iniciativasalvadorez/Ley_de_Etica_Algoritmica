@@ -8,7 +8,7 @@
 
 <p><i>"Subordinar la eficiencia tecnológica, la acumulación de datos y la explotación de recursos informáticos al servicio ineludible de la dignidad humana y la soberanía nacional."</i></p>
 
-<p><b>En homenaje a los Sentimientos de la Nación de José María Morelos y Pavón y Andrés Quintana Roo en su 213 aniversario.</b>></p>
+<p><b>En homenaje a los Sentimientos de la Nación de José María Morelos y Pavón y Andrés Quintana Roo en su 213 aniversario.</b></p>
 
 <hr>
 
