@@ -166,6 +166,6 @@ Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimon
 
 ---
 
-*“La Patria y nuestro Patrimonio Digital se defienden con dignidad, verdad e intelecto.”*
+*“La Patria y El Patrimonio Digital Colectivo de la Nación se aman y se defienden.”*
 
 </div>
