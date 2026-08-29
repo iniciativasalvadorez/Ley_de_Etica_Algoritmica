@@ -1,4 +1,4 @@
-<!-- BANNER Y ENCABEZADO PRINCIPAL -->
+<!-- BANNER Y ENCABEZADO PRINCIPAL (ÚNICO BLOQUE CENTRADO) -->
 <div align="center">
 
 <h1>🏛️ Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana de las Tecnologías Cognitivo-Digitales</h1>
@@ -8,12 +8,12 @@
 
 <p><i>"Subordinar la eficiencia tecnológica, la acumulación de datos y la explotación de recursos informáticos al servicio ineludible de la dignidad humana y la soberanía nacional."</i></p>
 
-<p><b>En homenaje a los Sentimientos de la Nación de José María Morelos y Pavón y Andrés Quintana Roo en su 213 aniversario.<b></p>
+<p><b>En homenaje a los Sentimientos de la Nación de José María Morelos y Pavón y Andrés Quintana Roo en su 213 aniversario<b></p>
 
 <hr>
 
 <!-- NAVEGACIÓN RÁPIDA / BOTONES NATIVOS -->
-<p align="center">
+<p>
   <a href="#ley-y-presentacion">
     <img src="https://img.shields.io/badge/🏛️_Proyecto_de_Ley-Descargas-1E5128?style=for-the-badge" alt="Proyecto de Ley">
   </a>
@@ -33,18 +33,16 @@
 ---
 
 <a id="ley-y-presentacion"></a>
-🏛️ La Solución Soberana: El Proyecto de Ley para México
+### 🏛️ La Solución Soberana: El Proyecto de Ley para México
 
-En la República Mexicana queremos dar el paso definitivo: traducir la indignación frente al extractivismo tecnológico en derecho positivo. La presente Iniciativa Ciudadana propone dotar al Estado mexicano de las herramientas jurídicas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva y el equilibrio ecológico.
+En la República Mexicana hemos dado el paso definitivo: **traducir la indignación frente al extractivismo tecnológico en derecho positivo**. La presente Iniciativa Ciudadana dota al Estado mexicano de las herramientas jurídicas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva y el equilibrio ecológico.
 
----
-
-⚖️ Los 6 Pilares de la Ley General:
+#### ⚖️ Los 6 Pilares de la Ley General:
 
 <table>
   <tr>
     <td width="50%">
-      <b>1. 🌾 Patrimonio Digital Colectivo</b><br>
+      <b>1. 🦅 Patrimonio Digital Colectivo</b><br>
       Prohíbe el extractivismo de datos y declara la información agregada y anonimizada de la población como un bien inalienable de la Nación.
     </td>
     <td width="50%">
@@ -74,9 +72,7 @@ En la República Mexicana queremos dar el paso definitivo: traducir la indignaci
   </tr>
 </table>
 
----
-
-📥 Descarga de Documentos Oficiales
+#### 📥 Descarga de Documentos Oficiales
 
 Consulta el texto íntegro en formato de técnica legislativa mexicana o nuestra síntesis ejecutiva:
 
@@ -93,11 +89,11 @@ Consulta el texto íntegro en formato de técnica legislativa mexicana o nuestra
 ---
 
 <a id="multimedia"></a>
-🎙️ Audioguía y Video Explicativo
+### 🎙️ Audioguía y Video Explicativo
 
 Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros materiales de análisis profundo:
 
-🎧 Audioguía Oficial
+#### 🎧 Audioguía Oficial
 *El Legado de los Sentimientos de la Nación en el Siglo XXI*
 
 <p align="center">
@@ -106,7 +102,7 @@ Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros
   </a>
 </p>
 
-📺 Video Explicativo
+#### 📺 Video Explicativo
 *Análisis y Fundamentos de la Iniciativa*
 
 <p align="center">
@@ -118,7 +114,7 @@ Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros
 ---
 
 <a id="movilizacion-nacional"></a>
-🤝 Movilización Soberana: Organización Nacional
+### 🤝 Movilización Soberana: Organización Nacional
 
 <p align="center">
   <a href="/Ley_de_Etica_Algoritmica/respuesta_ejecutivo_federal.pdf" target="_blank">
@@ -130,7 +126,8 @@ Tras el análisis de procedibilidad y la respuesta formal emitida por las autori
 
 Esto exigirá recolectar el respaldo físico y verificable del 0.13% de la lista nominal de electores de nuestro país mediante los mecanismos oficiales del Instituto Nacional Electoral (INE). Te invitamos a sumarte a la **Reserva Ciudadana**:
 
-✉️ 1. Sigue el desarrollo (Red de Alertas Seguras)
+#### ✉️ 1. Sigue el desarrollo (Red de Alertas Seguras)
+
 Si deseas ser notificado el día exacto en que comience la recolección oficial de firmas ciudadanas en tu localidad por parte del INE, regístrate en nuestra red de alertas seguras. Tus datos no serán utilizados para perfilamiento predictivo ni usufructo corporativo.
 
 <p align="center">
@@ -142,7 +139,7 @@ Si deseas ser notificado el día exacto en que comience la recolección oficial 
 ---
 
 <a id="peticion-global"></a>
-🌐 El Contexto Global: Solidaridad Internacional
+### 🌐 El Contexto Global: Solidaridad Internacional
 
 El mundo entero está levantando la voz con un reclamo justo frente a la asimetría epistémica: **“No dejemos que los multimillonarios decidan nuestro futuro”**. Nos enfrentamos a un *Efecto Invernadero Social* provocado por corporaciones transnacionales que extraen nuestra atención y nuestros datos para concentrar el poder.
 
@@ -154,11 +151,11 @@ Como un esfuerzo hermano de solidaridad internacional, te invitamos a conocer y 
   </a>
 </p>
 
-> ⚠️ **Aclaración Soberana:** *Esta petición global es un esfuerzo coincidente de concientización internacional, pero nuestra Iniciativa de Ley es un proyecto soberano, independiente y redactado 100% bajo la técnica jurídica y el marco constitucional de los Estados Unidos Mexicanos, sin subordinación a ninguna agenda ni organización extranjera.*
+> ⚠️ **Aclaración Soberana:** *Esta petición global es un esfuerzo de concientización internacional, pero nuestra Iniciativa de Ley es un proyecto soberano, independiente y redactado 100% bajo la técnica jurídica y el marco constitucional de los Estados Unidos Mexicanos, sin subordinación a ninguna agenda ni organización extranjera.*
 
 ---
 
-🏛️ Promotoría y Sede Oficial
+### 🏛️ Promotoría y Sede Oficial
 
 Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimonio Digital Colectivo de todas y todos los mexicanos.
 
@@ -169,6 +166,6 @@ Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimon
 
 ---
 
-*“La Patria y El Patrimonio Digital no se venden, se aman y se defienden.”*
+*“La Patria y nuestro Patrimonio Digital se defienden con dignidad, verdad e intelecto.”*
 
 </div>
