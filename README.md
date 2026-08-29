@@ -91,6 +91,8 @@ Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimon
 *   **Promovente Ciudadano:** Salvador Escudero Zendejas
 *   **Sede de Colaboración:** Cancún Quintana Roo México, República Mexicana, 2026.
 
+---
+
 <a id="peticion-global"></a>
 <h3>🌐 El Contexto Global: Solidaridad Internacional</h3>
 
