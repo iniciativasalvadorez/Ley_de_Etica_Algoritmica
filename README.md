@@ -166,6 +166,6 @@ Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimon
 
 ---
 
-*“La Patria y El Patrimonio Digital Colectivo de la Nación no se venden, se aman y se defienden.”*
+<p><b>La Patria y El Patrimonio Digital Colectivo de la Nación no se venden, se aman y se defienden.</b></p>
 
 </div>
