@@ -18,17 +18,13 @@
   <a href="#multimedia"><b>🎙️ MULTIMEDIA</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#movilizacion-nacional"><b>🤝 ÚNETE AL MOVIMIENTO</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#peticion-global"><b>🌐 PETICIÓN GLOBAL</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
 
-<ul>
-  <li><a href="https://prohumandeclaration.com/en/sign/dont-let-billionaires-decide?utm_source=meta&amp;utm_medium=cpc&amp;utm_campaign=gl_aideclaration_v01_everyone&amp;utm_content=grnt_tech&amp;utm_term=0&amp;source=ads-mt-ld-c120248447441150470-g120248447441170470-a120248447441160470-s0-fb&amp;fbclid=Iwb21leAT-PnpwZG9mBWV4dG4DYWVtATAAYWRpZAGrNczCjyBmc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEexnanyJz3zJyNcJ-80fci1fx_UqhQvhM0J2gmvt3zB9G-iMkJ_sb6FoITpiI_aem_18JQREURERwCdUfInOHk4Q&amp;utm_id=120248447441150470" target="_blank" rel="noopener noreferrer"><strong>✍️ FIRMAR LA PETICIÓN INTERNACIONAL AQUÍ</strong></a></li>
-</ul>
-
----
 <a id="ley-y-presentacion"></a>
 ### 🏛️ La Solución Soberana: El Proyecto de Ley para México
 
@@ -100,7 +96,10 @@ Esta es una iniciativa promovida por la ciudadanía para la defensa del Patrimon
 
 <p>El mundo entero está levantando la voz con un reclamo justo frente a la asimetría epistémica: <strong>“No dejemos que los multimillonarios decidan nuestro futuro”</strong>. Nos enfrentamos a un “Efecto Invernadero Social” provocado por corporaciones transnacionales que extraen nuestra atención y nuestros datos para concentrar el poder.</p>
 
-<p>Como primer paso de conciencia, te invitamos a solidarizarte con este reclamo ético internacional firmando la declaración global "Pro Human".</p> 
+<p>Te invitamos a solidarizarte también con este reclamo ético internacional firmando la declaración global "Pro Human".</p> 
 
 <p><strong>⚠️ Aclaración Soberana:</strong> <em>Esta petición global es un esfuerzo coincidente para la concientización de la problemática, pero nuestra Iniciativa de Ley es un proyecto soberano, independiente y redactado 100% bajo la técnica jurídica y el marco constitucional de los Estados Unidos Mexicanos, sin subordinación a ninguna agenda ni organización extranjera.</em></p>
 
+<ul>
+  <li><a href="https://prohumandeclaration.com/en/sign/dont-let-billionaires-decide?utm_source=meta&amp;utm_medium=cpc&amp;utm_campaign=gl_aideclaration_v01_everyone&amp;utm_content=grnt_tech&amp;utm_term=0&amp;source=ads-mt-ld-c120248447441150470-g120248447441170470-a120248447441160470-s0-fb&amp;fbclid=Iwb21leAT-PnpwZG9mBWV4dG4DYWVtATAAYWRpZAGrNczCjyBmc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEexnanyJz3zJyNcJ-80fci1fx_UqhQvhM0J2gmvt3zB9G-iMkJ_sb6FoITpiI_aem_18JQREURERwCdUfInOHk4Q&amp;utm_id=120248447441150470" target="_blank" rel="noopener noreferrer"><strong>✍️ FIRMAR LA PETICIÓN INTERNACIONAL AQUÍ</strong></a></li>
+</ul>
