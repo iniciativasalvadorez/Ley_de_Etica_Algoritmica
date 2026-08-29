@@ -61,14 +61,14 @@ Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros
 
 **Audioguía Oficial: El Legado de los Sentimientos de la Nación en el Siglo XXI**
 <p align="center">
-  <a href="(https://github.com/iniciativasalvadorez/ley_etica_algoritmica/releases/download/P1.0/podcast_soberania_digital.m4a)" target="_blank">
+  <a href="https://github.com/iniciativasalvadorez/ley_etica_algoritmica/releases/download/P1.0/podcast_soberania_digital.m4a" target="_blank">
     <img src="https://img.shields.io/badge/Escuchar%20Audioguía%20(Audio%20M4A)-Clic%20aquí%20para%20reproducir-blue?style=for-the-badge&logo=googlepodcasts&logoColor=white" alt="Escuchar Audioguía" height="40">
   </a>
 </p>
 
 **Video Explicativo de la Iniciativa**
 <p align="center">
-  <a href="(https://www.youtube.com/watch?v=E2CZTIBzvd8))">
+  <a href="https://www.youtube.com/watch?v=E2CZTIBzvd8" target="_blank">
     <img src="https://img.youtube.com/vi/E2CZTIBzvd8/maxresdefault.jpg" alt="Ver Video Explicativo de la Ley" width="70%" style="border-radius: 8px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
   </a>
 </p>
