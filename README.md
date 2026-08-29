@@ -1,17 +1,17 @@
 <!-- BANNER Y ENCABEZADO PRINCIPAL -->
 <div align="center">
 
-# 🏛️ Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana
-### *de las Tecnologías Cognitivo-Digitales*
-**Iniciativa Ciudadana para la República Mexicana**
+<h1>🏛️ Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana</h1>
+<h3><i>de las Tecnologías Cognitivo-Digitales</i></h3>
+<p><b>Iniciativa Ciudadana para la República Mexicana</b></p>
 
----
+<hr>
 
-> *"Subordinar la eficiencia tecnológica, la acumulación de datos y la explotación de recursos informáticos al servicio ineludible de la dignidad humana y la soberanía nacional."*
+<p><i>"Subordinar la eficiencia tecnológica, la acumulación de datos y la explotación de recursos informáticos al servicio ineludible de la dignidad humana y la soberanía nacional."</i></p>
 
-*En homenaje a los Sentimientos de la Nación de José María Morelos y Pavón y Andrés Quintana Roo en su 213 aniversario.*
+<p>En homenaje a los Sentimientos de la Nación de José María Morelos y Pavón y Andrés Quintana Roo en su 213 aniversario.</p>
 
----
+<hr>
 
 <!-- NAVEGACIÓN RÁPIDA / BOTONES NATIVOS -->
 <p align="center">
