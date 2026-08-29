@@ -79,15 +79,17 @@ Conoce el trasfondo humano, histórico y laboral de la Ley a través de nuestros
 
 ---
 <a id="movilizacion-nacional"></a>
-### 🤝 Movilización Soberana: Organización Nacional
+<h3>🤝 Movilización Soberana: Organización Nacional</h3>
 
-Tras el análisis de procedibilidad por parte de las autoridades del Ejecutivo Federal, se ha determinado que el cauce democrático para materializar esta ley es la vía de la **Iniciativa Ciudadana** (Artículo 71 de la Constitución Política de los Estados Unidos Mexicanos). 
+<p><a href="/Ley_de_Etica_Algoritmica/respuesta_ejecutivo_federal.pdf" target="_blank"><strong>Tras el análisis de procedibilidad y la respuesta formal emitida por las autoridades del Ejecutivo Federal</strong></a>, se ha determinado que el cauce democrático para materializar esta ley es la vía de la <strong>Iniciativa Ciudadana</strong> (Artículo 71 de la Constitución Política de los Estados Unidos Mexicanos).</p>
 
-Esto exigirá recolectar el respaldo físico y verificable del 0.13% de la lista nominal de electores de nuestro país mediante los mecanismos oficiales del Instituto Nacional Electoral (INE). Te invitamos a sumarte desde ahora en la trinchera que mejor se adapte a ti:
+<p>Esto exigirá recolectar el respaldo físico y verificable del 0.13% de la lista nominal de electores de nuestro país mediante los mecanismos oficiales del Instituto Nacional Electoral (INE). Te invitamos a sumarte desde ahora en la trinchera que mejor se adapte a ti:</p>
 
-#### 1. Sigue el desarrollo de la iniciativa (Red de Alertas)
-Si deseas ser notificado el día exacto en que comience la recolección oficial de firmas ciudadanas en tu localidad por parte del INE, regístrate en nuestra red de alertas seguras. Tus datos no serán utilizados para perfilamiento predictivo ni usufructo corporativo.
-*   [**✉️ REGISTRARME EN LA RED DE ALERTAS**](https://cryptpad.fr/form/#/2/form/view/PVfEZxDNlyBwlRw9J2V-J1CVAm6s9a873B5vZ1QCY7M/)
+<h4>1. Sigue el desarrollo de la iniciativa (Red de Alertas)</h4>
+<p>Si deseas ser notificado el día exacto en que comience la recolección oficial de firmas ciudadanas en tu localidad por parte del INE, regístrate en nuestra red de alertas seguras. Tus datos no serán utilizados para perfilamiento predictivo ni usufructo corporativo.</p>
+<ul>
+  <li><a href="https://cryptpad.fr/form/#/2/form/view/PVfEZxDNlyBwlRw9J2V-J1CVAm6s9a873B5vZ1QCY7M/" target="_blank" rel="noopener noreferrer"><strong>✉️ REGISTRARME EN LA RED DE ALERTAS</strong></a></li>
+</ul>
 
 #### 2. Participa en el Comité Organizador
 Si tienes el tiempo y la vocación (ciudadanos, juristas, organizaciones civiles, estudiantes) para ayudarnos a coordinar la logística, la tramitología y la movilización territorial en tu entidad federativa, necesitamos tu fuerza en la primera línea.
