@@ -43,7 +43,7 @@ En la República Mexicana queremos dar el paso definitivo: **traducir la indigna
 <table>
   <tr>
     <td width="50%">
-      <b>1. 🇲🇽 Patrimonio Digital Colectivo</b><br>
+      <b>1. 🌾 Patrimonio Digital Colectivo</b><br>
       Prohíbe el extractivismo de datos y declara la información agregada y anonimizada de la población como un bien inalienable de la Nación.
     </td>
     <td width="50%">
