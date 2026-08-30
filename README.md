@@ -35,7 +35,7 @@
 <a id="ley-y-presentacion"></a>
 ### 🏛️ La Solución Soberana: El Proyecto de Ley para México
 
-En la República Mexicana hemos dado el paso definitivo: **traducir la indignación frente al extractivismo tecnológico en derecho positivo**. La presente Iniciativa Ciudadana dota al Estado mexicano de las herramientas jurídicas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva y el equilibrio ecológico.
+En la República Mexicana queremos dar el paso definitivo: **traducir la indignación frente al extractivismo tecnológico en derecho positivo**. La presente Iniciativa Ciudadana tiene como intención dotar al Estado mexicano de las herramientas jurídicas necesarias para salvaguardar la soberanía nacional, la integridad cognitiva y el equilibrio ecológico.
 
 #### ⚖️ Los 6 Pilares de la Ley General:
 
@@ -74,7 +74,7 @@ En la República Mexicana hemos dado el paso definitivo: **traducir la indignaci
 
 #### 📥 Descarga de Documentos Oficiales
 
-Consulta el texto íntegro en formato de técnica legislativa mexicana o nuestra síntesis ejecutiva:
+Consulta el texto formal íntegro de la iniciativa o nuestra síntesis ejecutiva:
 
 <p align="center">
   <a href="./iniciativa_ley_etica_algoritmica.pdf" target="_blank">
@@ -143,7 +143,7 @@ Si deseas ser notificado el día exacto en que comience la recolección oficial 
 
 El mundo entero está levantando la voz con un reclamo justo frente a la asimetría epistémica: **“No dejemos que los multimillonarios decidan nuestro futuro”**. Nos enfrentamos a un *Efecto Invernadero Social* provocado por corporaciones transnacionales que extraen nuestra atención y nuestros datos para concentrar el poder.
 
-Como un esfuerzo hermano de solidaridad internacional, te invitamos a conocer y sumar tu firma a la declaración global *Pro Human*:
+Como un esfuerzo coincidente y de solidaridad internacional, te invitamos a conocer y sumar tu firma a la declaración global *Pro Human*:
 
 <p align="center">
   <a href="https://prohumandeclaration.com/en/sign/dont-let-billionaires-decide" target="_blank">
@@ -151,7 +151,7 @@ Como un esfuerzo hermano de solidaridad internacional, te invitamos a conocer y 
   </a>
 </p>
 
-> ⚠️ **Aclaración Soberana:** *Esta petición global es un esfuerzo de concientización internacional, pero nuestra Iniciativa de Ley es un proyecto soberano, independiente y redactado 100% bajo la técnica jurídica y el marco constitucional de los Estados Unidos Mexicanos, sin subordinación a ninguna agenda ni organización extranjera.*
+> ⚠️ **Aclaración Soberana:** *Esta petición global es un esfuerzo de concientización internacional, pero nuestra Iniciativa de Ley es un proyecto soberano, independiente y redactado bajo la técnica jurídica y el marco constitucional de los Estados Unidos Mexicanos, sin subordinación a ninguna agenda ni organización extranjera.*
 
 ---
 
