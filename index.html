@@ -264,6 +264,57 @@
             .btn { width: 100%; }
             header { padding: 2.5rem 1rem 2rem; }
         }
+        /* --- ESTILOS DEL CARRUSEL DE DIAPOSITIVAS --- */
+        .carousel-container {
+            width: 100%;
+            max-width: 850px;
+            margin: 3rem auto;
+            text-align: center;
+        }
+
+        .carousel-track {
+            display: flex;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
+            gap: 15px;
+            padding: 1rem 0;
+        }
+
+        /* Oculta la barra de desplazamiento fea en algunos navegadores pero permite scroll */
+        .carousel-track::-webkit-scrollbar {
+            height: 8px;
+        }
+        
+        .carousel-track::-webkit-scrollbar-thumb {
+            background: var(--primary-color);
+            border-radius: 4px;
+        }
+
+        .carousel-slide {
+            flex: 0 0 100%; /* Cada diapositiva toma el 100% del ancho móvil */
+            scroll-snap-align: start;
+        }
+
+        .carousel-slide img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            border: 1px solid #e0e0e0;
+        }
+
+        .carousel-instruction {
+            font-size: 0.95rem;
+            color: #666;
+            margin-top: 0.8rem;
+            font-style: italic;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
     </style>
 </head>
 <body>
@@ -337,7 +388,42 @@
             <a href="./iniciativa_ley_etica_algoritmica.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">📄 Descargar Iniciativa Completa (PDF)</a>
             <a href="./presentacion_ejecutiva_ley.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">📊 Descargar Presentación Ejecutiva (PDF)</a>
         </div>
-
+        <!-- Carrusel Visual de la Presentación Ejecutiva -->
+        <div class="carousel-container">
+            <h3 style="color: var(--primary-color); margin-bottom: 1rem;">🔍 Vista Previa de la Presentación Ejecutiva</h3>
+            
+            <div class="carousel-track">
+                <!-- Diapositiva 1 -->
+                <div class="carousel-slide">
+                    <img src="slide1.png" alt="Diapositiva 1: Portada de la Ley General">
+                </div>
+                <!-- Diapositiva 2 -->
+                <div class="carousel-slide">
+                    <img src="slide2.png" alt="Diapositiva 2: El Diagnóstico y Asimetría Epistémica">
+                </div>
+                <!-- Diapositiva 3 -->
+                <div class="carousel-slide">
+                    <img src="slide3.png" alt="Diapositiva 3: El Patrimonio Digital Colectivo (Ejido Digital)">
+                </div>
+                <!-- Diapositiva 4 -->
+                <div class="carousel-slide">
+                    <img src="slide4.png" alt="Diapositiva 4: El Consejo Comunitario (CCNEA)">
+                </div>
+                <!-- Diapositiva 5 -->
+                <div class="carousel-slide">
+                    <img src="slide5.png" alt="Diapositiva 5: Protección a la Niñez y Neuroderechos">
+                </div>
+                <!-- Diapositiva 6 -->
+                <div class="carousel-slide">
+                    <img src="slide6.png" alt="Diapositiva 6: Matriz Probatoria y Sanciones">
+                </div>
+            </div>
+            
+            <p class="carousel-instruction">
+                👈 <span>Desliza hacia los lados para leer la presentación completa</span> 👉
+            </p>
+        </div>
+        
         <!-- Movilización Soberana y Respuestas Institucionales -->
         <h2 class="section-title">🤝 Movilización Soberana: Organización Nacional</h2>
         <p>
