@@ -3,8 +3,8 @@
 
 <h1>🏛️ Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana de las Tecnologías Cognitivo-Digitales</h1>
 <p><b>Iniciativa Ciudadana para la República Mexicana</b></p>
-<!-- Analítica Ética y Respetuosa de la Privacidad (Sin Cookies) -->
-<script defer data-domain="iniciativasalvadorez.github.io" src="https://plausible.io/js/script.file-downloads.outbound-links.js"></script>
+<!-- Analítica Ética Gratuita y Sin Cookies (GoatCounter) -->
+<script data-goatcounter="https://iniciativasalvadorez.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <hr>
 
 <p><i>"Subordinar la eficiencia tecnológica, la acumulación de datos y la explotación de recursos informáticos al servicio ineludible de la dignidad humana y la soberanía nacional."</i></p>
