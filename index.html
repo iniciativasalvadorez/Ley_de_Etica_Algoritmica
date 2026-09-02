@@ -226,6 +226,57 @@
             color: var(--accent-color);
         }
 
+        /* --- ESTILOS DEL CARRUSEL DE DIAPOSITIVAS --- */
+        .carousel-container {
+            width: 100%;
+            max-width: 850px;
+            margin: 3rem auto;
+            text-align: center;
+        }
+
+        .carousel-track {
+            display: flex;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
+            gap: 15px;
+            padding: 1rem 0;
+        }
+
+        .carousel-track::-webkit-scrollbar {
+            height: 8px;
+        }
+        
+        .carousel-track::-webkit-scrollbar-thumb {
+            background: var(--primary-color);
+            border-radius: 4px;
+        }
+
+        .carousel-slide {
+            flex: 0 0 100%;
+            scroll-snap-align: start;
+        }
+
+        .carousel-slide img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            border: 1px solid #e0e0e0;
+        }
+
+        .carousel-instruction {
+            font-size: 0.95rem;
+            color: #666;
+            margin-top: 0.8rem;
+            font-style: italic;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
         footer {
             background-color: var(--primary-color);
             color: #d1d1d1;
@@ -263,57 +314,6 @@
             h1 { font-size: 1.6rem; }
             .btn { width: 100%; }
             header { padding: 2.5rem 1rem 2rem; }
-        }
-        /* --- ESTILOS DEL CARRUSEL DE DIAPOSITIVAS --- */
-        .carousel-container {
-            width: 100%;
-            max-width: 850px;
-            margin: 3rem auto;
-            text-align: center;
-        }
-
-        .carousel-track {
-            display: flex;
-            overflow-x: auto;
-            scroll-snap-type: x mandatory;
-            scroll-behavior: smooth;
-            -webkit-overflow-scrolling: touch;
-            gap: 15px;
-            padding: 1rem 0;
-        }
-
-        /* Oculta la barra de desplazamiento fea en algunos navegadores pero permite scroll */
-        .carousel-track::-webkit-scrollbar {
-            height: 8px;
-        }
-        
-        .carousel-track::-webkit-scrollbar-thumb {
-            background: var(--primary-color);
-            border-radius: 4px;
-        }
-
-        .carousel-slide {
-            flex: 0 0 100%; /* Cada diapositiva toma el 100% del ancho móvil */
-            scroll-snap-align: start;
-        }
-
-        .carousel-slide img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px;
-            box-shadow: var(--shadow);
-            border: 1px solid #e0e0e0;
-        }
-
-        .carousel-instruction {
-            font-size: 0.95rem;
-            color: #666;
-            margin-top: 0.8rem;
-            font-style: italic;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
         }
     </style>
 </head>
@@ -380,17 +380,99 @@
             </div>
         </div>
 
+
+        <!-- ============================================================ -->
+        <!-- 🎙️ SECCIÓN MULTIMEDIA RECUPERADA (AUDIO Y VIDEO)             -->
+        <!-- ============================================================ -->
+        <h2 class="section-title">🎙️ Audioguía y Video Explicativo</h2>
+        <p style="text-align: center; margin-bottom: 2rem;">Conoce el trasfondo humano, histórico y de soberanía nacional de la ley a través de nuestros canales multimedia oficiales:</p>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
+            
+            <!-- 🎧 Audioguía Oficial (Audio M4A Vinculado Correctamente) -->
+            <div style="background-color: var(--card-bg); padding: 2rem; border-radius: 12px; box-shadow: var(--shadow); border-top: 5px solid var(--accent-color); display: flex; flex-direction: column; justify-content: space-between;">
+                <div>
+                    <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">🎧 Audioguía Oficial</h3>
+                    <p style="font-size: 0.95rem; color: #555; margin-bottom: 1.5rem;">Escucha el análisis profundo y la relación histórica con los Sentimientos de la Nación en el siglo XXI.</p>
+                </div>
+                
+                <!-- Reproductor Dual Estilo "AudioyVideo.JPG" -->
+                <div style="background: #111e30; border-radius: 6px; overflow: hidden; display: flex; flex-direction: column;">
+                    <div style="display: flex; font-size: 0.8rem; font-weight: bold; text-transform: uppercase;">
+                        <div style="background-color: #0b1420; color: #a1b0cb; padding: 8px 12px; flex: 1.3; text-align: left; display: flex; align-items: center; gap: 6px;">
+                            <span>🔊 Escuchar Audioguía</span>
+                        </div>
+                        <div style="background-color: #38bdf8; color: #0b1420; padding: 8px 12px; flex: 1; text-align: center;">
+                            <span>Clic para oír</span>
+                        </div>
+                    </div>
+                    <div style="padding: 10px;">
+                        <audio controls style="width: 100%; outline: none;">
+                            <source src="podcast_soberania_digital.m4a" type="audio/mp4">
+                            Tu navegador no soporta el audio. Puedes descargarlo en la raíz del repositorio.
+                        </audio>
+                    <div style="text-align: center; margin-top: 8px;">
+                    <a href="./podcast_soberania_digital.m4a" target="_blank" style="color: #38bdf8; font-size: 0.85rem; text-decoration: underline; font-weight: 600;">
+                        🔀 Abrir audio en una pestaña nueva para seguir navegando
+                    </a>
+                </div>
+                </div>
+            </div>
+            </div>
+
+            <!-- 📺 Video Explicativo (Video de YouTube con Portada Dinámica) -->
+            <div style="background-color: var(--card-bg); padding: 2rem; border-radius: 12px; box-shadow: var(--shadow); border-top: 5px solid var(--accent-color); display: flex; flex-direction: column; justify-content: space-between;">
+                <div>
+                    <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">📺 Video Explicativo</h3>
+                    <p style="font-size: 0.95rem; color: #555; margin-bottom: 1.5rem;">Conoce los detalles de procedibilidad y el debate legislativo en Palacio Nacional.</p>
+                </div>
+
+                <!-- Contenedor Responsivo que jala la miniatura oficial directamente de los servidores de YouTube -->
+                <div id="video-wrapper" style="position: relative; width: 100%; aspect-ratio: 16/9; background-color: #000; border-radius: 6px; overflow: hidden; cursor: pointer;" onclick="cargarVideoExplicativo()">
+                    <!-- Se carga maxresdefault.jpg (HD) con un fallback automático a hqdefault.jpg por seguridad -->
+                    <img src="https://img.youtube.com/vi/UnM9uBhEk5U/maxresdefault.jpg" onerror="this.src='https://img.youtube.com/vi/UnM9uBhEk5U/hqdefault.jpg'" alt="Portada Video Explicativo" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.8;">
+                    <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.25); display: flex; align-items: center; justify-content: center;">
+                        <div style="width: 60px; height: 60px; background-color: rgba(255,255,255,0.9); border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#8b0000" style="margin-left: 3px;"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Script de Carga Dinámica para optimizar rendimiento de página -->
+                <script>
+                    function cargarVideoExplicativo() {
+                        const wrapper = document.getElementById('video-wrapper');
+                        const youtubeId = "UnM9uBhEk5U"; // Tu ID de video de YouTube
+                        wrapper.innerHTML = `
+                            <iframe 
+                                src="https://www.youtube.com/embed/${youtubeId}?autoplay=1&rel=0" 
+                                title="Video Explicativo - Ley de Ética Algorítmica" 
+                                frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                allowfullscreen 
+                                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+                            </iframe>
+                        `;
+                    }
+                </script>
+            </div>
+
+        </div>
+
+
         <!-- Descarga de Documentación Oficial -->
         <h2 class="section-title">Expediente Legislativo Oficial</h2>
-        <p style="text-align: center; margin-bottom: 2rem;">Accede de manera directa y transparente a la propuesta en técnica parlamentaria y a los materiales ejecutivos diseñados para el debate nacional:</p>
+        <p style="text-align: center; margin-bottom: 2rem;">Acceder de manera directa y transparente a la propuesta en técnica parlamentaria y a los materiales ejecutivos diseñados para el debate nacional:</p>
 
         <div class="btn-group">
             <a href="./iniciativa_ley_etica_algoritmica.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">📄 Descargar Iniciativa Completa (PDF)</a>
             <a href="./presentacion_ejecutiva_ley.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">📊 Descargar Presentación Ejecutiva (PDF)</a>
         </div>
+
+
         <!-- Carrusel Visual de la Presentación Ejecutiva -->
         <div class="carousel-container">
-            <h3 style="color: var(--primary-color); margin-bottom: 1rem;">🔍 Vista Previa de la Presentación Ejecutiva</h3>
+            <h3 style="color: var(--primary-color); margin-bottom: 1rem; text-align: center;">🔍 Vista Previa de la Presentación Ejecutiva</h3>
             
             <div class="carousel-track">
                 <!-- Diapositiva 1 -->
@@ -420,10 +502,11 @@
             </div>
             
             <p class="carousel-instruction">
-                👈 <span>Desliza hacia los lados para leer la presentación completa</span> 👉
+                👈 <span>Desliza hacia los lados para ver la presentación completa</span> 👉
             </p>
         </div>
-        
+
+
         <!-- Movilización Soberana y Respuestas Institucionales -->
         <h2 class="section-title">🤝 Movilización Soberana: Organización Nacional</h2>
         <p>
@@ -448,7 +531,7 @@
         
         <div class="warning-box">
             <strong>⚠️ Aclaración Soberana de Procedencia:</strong> 
-            <em>Esta petición global es un esfuerzo de concientización internacional, pero nuestra Iniciativa de Ley es un proyecto soberano, independiente y redactado bajo la técnica jurídica y el marco constitucional de los Estados Unidos Mexicanos, sin subordinación a ninguna agenda ni organización extranjera.</em>
+            <em>Esta petición internacional es un esfuerzo hermano de concientización global, pero nuestra Iniciativa de Ley es un proyecto 100% soberano, redactado por ciudadanos y bajo el marco del derecho positivo y constitucional de los Estados Unidos Mexicanos, sin subordinación técnica ni política a ninguna agenda u organización extranjera.</em>
         </div>
 
         <ul>
