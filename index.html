@@ -411,16 +411,18 @@
                             <source src="podcast_soberania_digital.m4a" type="audio/mp4">
                             Tu navegador no soporta el audio. Puedes descargarlo en la raíz del repositorio.
                         </audio>
-                    <div style="text-align: center; margin-top: 8px;">
-                    <a href="./podcast_soberania_digital.m4a" target="_blank" style="color: #38bdf8; font-size: 0.85rem; text-decoration: underline; font-weight: 600;">
-                        🔀 Abrir audio en una pestaña nueva para seguir navegando
-                    </a>
+                        
+                        <!-- Enlace elegante para abrir en pestaña nueva -->
+                        <div style="text-align: center; margin-top: 12px;">
+                            <a href="./podcast_soberania_digital.m4a" target="_blank" style="color: #38bdf8; font-size: 0.82rem; text-decoration: underline; font-weight: 600; display: inline-block;">
+                                🔀 Abrir audio en una pestaña nueva para seguir navegando
+                            </a>
+                        </div>
+                    </div>
                 </div>
-                </div>
-            </div>
             </div>
 
-            <!-- 📺 Video Explicativo (Video de YouTube con Portada Dinámica) -->
+            <!-- 📺 Video Explicativo (Video de YouTube con Portada Dinámica Oficial) -->
             <div style="background-color: var(--card-bg); padding: 2rem; border-radius: 12px; box-shadow: var(--shadow); border-top: 5px solid var(--accent-color); display: flex; flex-direction: column; justify-content: space-between;">
                 <div>
                     <h3 style="color: var(--primary-color); margin-bottom: 0.5rem;">📺 Video Explicativo</h3>
@@ -429,8 +431,8 @@
 
                 <!-- Contenedor Responsivo que jala la miniatura oficial directamente de los servidores de YouTube -->
                 <div id="video-wrapper" style="position: relative; width: 100%; aspect-ratio: 16/9; background-color: #000; border-radius: 6px; overflow: hidden; cursor: pointer;" onclick="cargarVideoExplicativo()">
-                    <!-- Se carga maxresdefault.jpg (HD) con un fallback automático a hqdefault.jpg por seguridad -->
-                    <img src="https://img.youtube.com/vi/UnM9uBhEk5U/maxresdefault.jpg" onerror="this.src='https://img.youtube.com/vi/UnM9uBhEk5U/hqdefault.jpg'" alt="Portada Video Explicativo" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.8;">
+                    <!-- Se carga la miniatura HD oficial de tu video real -->
+                    <img src="https://img.youtube.com/vi/E2CZTIBzvd8/maxresdefault.jpg" onerror="this.src='https://img.youtube.com/vi/E2CZTIBzvd8/hqdefault.jpg'" alt="Portada Video Explicativo" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.8;">
                     <div style="position: absolute; inset: 0; background: rgba(0,0,0,0.25); display: flex; align-items: center; justify-content: center;">
                         <div style="width: 60px; height: 60px; background-color: rgba(255,255,255,0.9); border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#8b0000" style="margin-left: 3px;"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
@@ -442,7 +444,7 @@
                 <script>
                     function cargarVideoExplicativo() {
                         const wrapper = document.getElementById('video-wrapper');
-                        const youtubeId = "UnM9uBhEk5U"; // Tu ID de video de YouTube
+                        const youtubeId = "E2CZTIBzvd8"; // ID de tu video real
                         wrapper.innerHTML = `
                             <iframe 
                                 src="https://www.youtube.com/embed/${youtubeId}?autoplay=1&rel=0" 
