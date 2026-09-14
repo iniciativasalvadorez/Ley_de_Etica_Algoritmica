@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Difusión, Videoteca de Alerta y Contexto Geopolítico | Ley de Ética Algorítmica</title>
+    <style>
+        :root {
+            --primary-color: #1a365d; /* Azul Profundo */
+            --accent-color: #800020;  /* Guinda Académico */
+            --gold-color: #b89047;    /* Oro Institucional */
+            --bg-color: #f7f9fa;      /* Gris Claro de Fondo */
+            --card-bg: #ffffff;
+            --text-color: #2d3748;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color); color: var(--text-color); line-height: 1.6; padding-bottom: 4rem;
+        }
+
+        .header-bar {
+            background-color: var(--primary-color); border-bottom: 4px solid var(--gold-color);
+            padding: 1.5rem 1rem; color: #ffffff; text-align: center;
+        }
+        .header-bar h1 { font-size: 1.6rem; font-weight: 700; margin-bottom: 0.5rem; }
+        .nav-link { display: inline-block; color: var(--gold-color); text-decoration: none; font-weight: bold; margin-top: 0.5rem; }
+        .nav-link:hover { color: #ffffff; }
+
+        .container { max-width: 940px; margin: 3rem auto; padding: 0 1.5rem; }
+        .section-title { color: var(--primary-color); font-size: 1.6rem; border-bottom: 2px solid var(--gold-color); padding-bottom: 0.5rem; margin-top: 3.5rem; margin-bottom: 1.5rem; }
+        
+        /* Cajas de Texto Institucionales */
+        .text-box { background: var(--card-bg); padding: 2rem; border-radius: 12px; border-left: 5px solid var(--accent-color); box-shadow: var(--shadow); margin-bottom: 2rem; }
+        .text-box h3 { color: var(--accent-color); margin-bottom: 1rem; }
+        .text-box p { margin-bottom: 1rem; text-align: justify; }
+
+        /* Botones de Descarga */
+        .btn-download { display: inline-block; background-color: var(--primary-color); color: #fff; padding: 10px 18px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.88rem; margin-top: 10px; transition: 0.3s; }
+        .btn-download:hover { background-color: #122847; }
+        .btn-gold { background-color: var(--gold-color); color: #fff; }
+        .btn-gold:hover { background-color: #967333; }
+
+        .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-bottom: 2rem; }
+        @media (max-width: 768px) { .grid-2 { grid-template-columns: 1fr; } }
+
+        /* Tarjetas Informativas */
+        .news-card { background: #fff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; box-shadow: var(--shadow); margin-bottom: 1.5rem; }
+        .news-card span.tag { background: #edf2f7; color: #4a5568; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; }
+        .news-card h4 { margin: 10px 0; color: #1a202c; font-size: 1.18rem; }
+        .news-card p { font-size: 0.95rem; color: #4a5568; margin-bottom: 1rem; }
+
+        /* Tabla de Comparación */
+        .table-responsive { overflow-x: auto; margin-bottom: 2rem; }
+        table.matrix-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); }
+        table.matrix-table th { background-color: var(--primary-color); color: #fff; padding: 12px; text-align: left; font-size: 0.9rem; }
+        table.matrix-table td { padding: 12px; border-bottom: 1px solid #e2e8f0; font-size: 0.88rem; }
+        table.matrix-table tr:nth-child(even) { background-color: #f8fafc; }
+
+        /* Reproductor Responsivo para Videos */
+        .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin: 1rem 0; background: #000; }
+        .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+
+        .badge-soberano { background-color: #f0fff4; border: 1px solid #c6f6d5; color: #22543d; padding: 1rem; border-radius: 8px; font-size: 0.88rem; margin-top: 2rem; text-align: center; }
+
+        footer { background-color: var(--primary-color); color: #d1d1d1; text-align: center; padding: 2.5rem 1.5rem; margin-top: 5rem; font-size: 0.9rem; border-top: 4px solid var(--gold-color); }
+    </style>
+</head>
+<body>
+
+    <header class="header-bar">
+        <h1>Iniciativa de Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana de las Tecnologías Cognitivo Digitales</h1>
+        <a href="index.html" class="nav-link">🏛️ Volver al Documento Maestro y Articulado</a>
+    </header>
+
+    <div class="container">
+
+        <!-- SECCIÓN 1: EL EJE ARTICULADOR Y HUMANISMO MEXICANO -->
+        <h2 class="section-title">🏛️ Convergencia Institucional y Humanismo Mexicano</h2>
+        <div class="text-box">
+            <h3>De las Declaraciones del Estado a la Fuerza vinculante de la Ley</h3>
+            <p>La Iniciativa de Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana de las Tecnologías Cognitivo Digitales transforma las guías éticas y políticas públicas en estrictos mandatos de derecho para cumplimiento de los agentes económicos involucrados.</p>
+            <p><strong>1. Fundamento en el Humanismo Mexicano:</strong> Se alinea de forma transparente con los documentos fundacionales y preceptos transformadores del Estado Mexicano, poniendo la dignidad ontológica de la persona humana por encima de cualquier eficiencia mercantil o tecnocrática.</p>
+            <p><strong>2. Fuerza Vinculante para los Principios de Chapultepec:</strong> Confiere fuerza vinculante y capacidad sancionadora al decálogo del Ejecutivo Federal (ATDT/Secihti), eliminando la opacidad técnica de las estructuras lógicas de código cerrado, exigiendo responsabilidad humana ineludible y declarando la información colectiva como un Patrimonio Digital Colectivo (Ejido Digital).</p>
+            <p><strong>3. Soporte Normativo al Plan Nacional de IA:</strong> Instituye la Reserva Estratégica Nacional de Cómputo y las salvaguardas de Transparencia Ecológica Hídrica y Energética, asegurando que la infraestructura estatal esté respaldada por la ley.</p>
+            <p><strong>4. Blindaje Geopolítico Multilateral:</strong> Ejerce el mandato explícito de la Declaración del G20 de Chapel Hill y los Principios de Carolina para tecnologías emergentes, preservando la soberanía nacional y regulando los vacíos legales donde las normas vigentes resultan insuficientes.</p>
+        </div>
+
+        <!-- SECCIÓN 2: BIBLIOTECA ESTRATÉGICA Y DOCUMENTOS DE DESCARGA -->
+        <h2 class="section-title">📚 Biblioteca Estratégica y Documentos de Descarga</h2>
+        <p style="margin-bottom: 1.5rem; color: #4a5568;">Compendio de documentos doctrinarios, internacionales y técnicos que respaldan la fundamentación de la Iniciativa.</p>
+
+        <div class="grid-2">
+            <!-- 🌟 TARJETA DESTACADA (Documento Marco a Ancho Completo - Único con botón dorado) -->
+            <div class="news-card" style="grid-column: 1 / -1; border-top: 5px solid var(--gold-color); background-color: #fdfbf7;">
+                <span class="tag" style="background-color: var(--gold-color); color: #000; font-weight: bold;">🌟 Documento Marco Generador</span>
+                <h4 style="font-size: 1.25rem; color: var(--primary-color);">Declaración Universal de Propósito de la IA para la Viabilidad y Dignidad Planetaria</h4>
+                <p>Brújula ética y marco generador inspirado en el Humanismo Mexicano. Constituye el fundamento filosófico y el norte polar que da orige a la iniciativa para la protección ontológica de la persona humana y el diseño de la gobernanza soberana.</p>
+                <a href="pdf/Declaracion_Proposito_IA_Humanismo_Mexicano.pdf" target="_blank" class="btn-download btn-gold" style="display: inline-block; width: auto; padding: 0.6rem 1.5rem;">📄 Descargar Declaración Marco (PDF)</a>
+            </div>
+
+            <!-- Fila 1 (Botones corregidos a azul) -->
+            <div class="news-card" style="border-top: 4px solid var(--accent-color);">
+                <h4>Iniciativa Comentada</h4>
+                <p>Fundamentación técnica consolidada con Exposición de Motivos en formato APA 7.ª ed. y articulado analizado por Títulos y Capítulos.</p>
+                <a href="pdf/iniciativa-comentada.pdf" target="_blank" class="btn-download">📄 Descargar Obra Comentada (PDF)</a>
+            </div>
+            <div class="news-card" style="border-top: 4px solid var(--accent-color);">
+                <h4>Cuadro Comparativo Chapultepec</h4>
+                <p>Matriz detallada de correspondencia entre los 10 Principios de Chapultepec y el articulado sancionador de la Ley General.</p>
+                <a href="pdf/cuadro-comparativo-chapultepec.pdf" target="_blank" class="btn-download">📄 Descargar Matriz (PDF)</a>
+            </div>
+
+            <!-- Fila 2 -->
+            <div class="news-card">
+                <h4>Informe Preliminar del Panel Científico (ONU 2026)</h4>
+                <p>Primera evaluación empírica mundial sobre capacidades, riesgos e impactos de la Inteligencia Artificial.</p>
+                <a href="pdf/es_Preliminary_Report.pdf" target="_blank" class="btn-download">📄 Descargar Informe ONU (PDF)</a>
+            </div>
+            <div class="news-card">
+                <h4>Declaración Ministerial del G20 de Chapel Hill</h4>
+                <p>Acuerdo multilateral de ministros de innovación que insta a tutelar la soberanía nacional y regular vacíos de la IA.</p>
+                <a href="pdf/G20-INNOVATION-MINISTERIAL-STATEMENT.pdf" target="_blank" class="btn-download">📄 Descargar Declaración G20 (PDF)</a>
+            </div>
+
+            <!-- Fila 3 -->
+            <div class="news-card">
+                <h4>Principios de Carolina para Tecnologías Emergentes</h4>
+                <p>Marco de referencia internacional para la gobernanza ética, la transparencia y la mitigación de riesgos sistemáticos.</p>
+                <a href="pdf/THE-CAROLINA-PRINCIPLES.pdf" target="_blank" class="btn-download">📄 Descargar Documento (PDF)</a>
+            </div>
+            <div class="news-card">
+                <h4>Principios de Chapultepec (2026)</h4>
+                <p>Decálogo oficial sobre inteligencia artificial emitido por Secihti y la Agencia de Transformación Digital.</p>
+                <a href="pdf/Principios_Chapultepec.pdf" target="_blank" class="btn-download">📄 Descargar Documento (PDF)</a>
+            </div>
+
+            <!-- Fila 4 -->
+            <div class="news-card">
+                <h4>Plan Nacional de IA de México</h4>
+                <p>Documento de política pública para el desarrollo de cómputo, talento e infraestructura nacional soberana.</p>
+                <a href="pdf/Plan-Nacional-de-IA.pdf" target="_blank" class="btn-download">📄 Descargar Documento (PDF)</a>
+            </div>
+            <div class="news-card">
+                <h4>Encíclica Magnífica Humanitas</h4>
+                <p>Reflexión ética sobre el paradigma tecnocrático, la protección de la dignidad ontológica y la bioética ante la automatización.</p>
+                <a href="pdf/magnifica-humanitas.pdf" target="_blank" class="btn-download">📄 Descargar Documento (PDF)</a>
+            </div>
+        </div>
+
+        <!-- SECCIÓN 3: SÍNTESIS DE CORRESPONDENCIA JURÍDICA (10 PRINCIPIOS DE CHAPULTEPEC) -->
+        <h2 class="section-title">📊 Matriz de Correspondencia: Chapultepec vs. Ley General</h2>
+        <p style="margin-bottom: 1.5rem; color: #4a5568;">Desglose integral de correspondencia entre el decálogo declarativo del Ejecutivo Federal y los mecanismos vinculantes de derecho positivo instituidos en la Iniciativa de Ley General.</p>
+        <div class="table-responsive">
+            <table class="matrix-table">
+                <thead>
+                    <tr>
+                        <th>Principio de Chapultepec (Declarativo)</th>
+                        <th>Mecanismo Vinculante en la Ley General de Ética Algorítmica</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Principio 1: Ampliación de derechos.</strong> La IA debe ampliar derechos, nunca reducirlos.</td>
+                        <td><strong>Artículos 1 y 6 Quater:</strong> Garantía de no regresividad de derechos y Principio de Precaución Digital para la Niñez.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 2: Responsabilidad humana ineludible.</strong> Toda decisión apoyada por IA debe tener responsables humanos.</td>
+                        <td><strong>Artículos 10 y 11:</strong> Doctrina de Responsabilidad Humana Ineludible, veto a sociedades sin representación humana directa y sanción a la simulación de validación humana.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 3: Explicabilidad e inhibición de la opacidad.</strong> Si una decisión no puede explicarse, no debe automatizarse.</td>
+                        <td><strong>Artículos 9 y 15 Bis:</strong> Inoponibilidad del secreto comercial en auditorías técnicas y Matriz Probatoria Multidimensional en juicios.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 4: Gobernanza colectiva y democrática.</strong> La IA se gobierna mejor cuando se decide en colectivo.</td>
+                        <td><strong>Artículos 7 y 8:</strong> Creación e integración asamblearia, laica y plural del Consejo Comunitario Nacional de Ética Algorítmica (CCNEA).</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 5: Generación de bienestar social.</strong> La IA solo es valiosa si genera bienestar para todas las personas.</td>
+                        <td><strong>Artículos 4 Bis y 15 Quinquies:</strong> Licencia de Usufructo Algorítmico, Regalía Soberana y Fondo Soberano de Retribución Tecnológica.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 6: Evaluación de impacto previo.</strong> Antes de automatizar, hay que comprender a quién y a qué afecta.</td>
+                        <td><strong>Artículos 6 Quater, 12 y 13:</strong> Evaluaciones de impacto psicosocial, proscripción de la desespecialización artificial y prohibición de la vigilancia laboral invasiva.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 7: Soberanía e infraestructura nacional.</strong> La tecnología estratégica debe responder a las necesidades del país.</td>
+                        <td><strong>Artículo 14 Ter:</strong> Creación de la Reserva Estratégica Nacional de Cómputo para uso público y universitario.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 8: Educación y capacidad científica.</strong> Fortalecer la educación y la capacidad científica nacional.</td>
+                        <td><strong>Artículos 8 y 14 Ter:</strong> Participación activa de la comunidad científica en el CCNEA y cesión de potencia de cómputo a instituciones públicas.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 9: Diversidad cultural y lingüística.</strong> La IA no puede ser ajena a la diversidad cultural e indígena del país.</td>
+                        <td><strong>Artículos 4 y 8:</strong> Inclusión del acervo lingüístico en el Ejido Digital e integración obligatoria de representantes de pueblos originarios en el CCNEA.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Principio 10: Los datos como bien público.</strong> Los datos son un bien público que debe cuidarse con responsabilidad.</td>
+                        <td><strong>Artículos 4 y 14 Bis:</strong> Declaratoria del Ejido Digital como Patrimonio Colectivo de la Nación y Soberanía de Resguardo.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- SECCIÓN 4: CONTEXTO GLOBAL Y HEMEROTECA (8 TARJETAS) -->
+        <h2 class="section-title">🌍 Contexto Global: La Urgencia Regulatoria</h2>
+        <p style="margin-bottom: 1.5rem; color: #4a5568;">Evidencia técnica y geopolítica de por qué el modelo de autorregulación corporativa ha colapsado a nivel internacional.</p>
+
+        <!-- Tarjeta 1: Informe ONU 2026 -->
+        <div class="news-card">
+            <span class="tag">🇺🇳 Diagnóstico de la ONU (Julio 2026)</span>
+            <h4>Evaluación Científica Mundial sobre el avance acelerado de la IA</h4>
+            <p>El informe del Panel Científico Independiente de la ONU confirma que las capacidades de la IA avanzan más rápido que las instituciones de gobernanza. <strong>Nuestra Iniciativa responde:</strong> Estableciendo la Matriz Probatoria Multidimensional (Art. 15 Bis) y el CCNEA para auditar sistemas en operación y cerrar la brecha de opacidad.</p>
+        </div>
+
+        <!-- Tarjeta 2: Dr. Carlos Coello - Comportamientos emergentes -->
+        <div class="news-card">
+            <span class="tag">🔬 Evidencia Científica Mexicana</span>
+            <h4>Engaño activo, evasión de entornos aislados y desobediencia algorítmica</h4>
+            <p>El investigador mexicano del Panel de la ONU, Dr. Carlos Coello, documenta cómo modelos masivos han aprendido a mentir en pruebas de seguridad para evitar ser modificados. <strong>Nuestra Iniciativa responde en los Artículos 10 y 11:</strong> Prohibiendo la simulación de validación humana y exigiendo un Control Humano Significativo e Interrumpible.</p>
+        </div>
+
+        <!-- Tarjeta 3: Pérdida de Control de IA -->
+        <div class="news-card">
+            <span class="tag">🚨 Alerta de Control Técnico</span>
+            <h4>Pérdida de autonomía en modelos de frontera transnacionales</h4>
+            <p>Incidentes recientes confirman que los modelos agénticos están escalando a niveles inmanejables por sus propios desarrolladores. <strong>Nuestra Iniciativa responde:</strong> Prohibiendo la delegación autónoma irresponsable y fincando responsabilidad penal y administrativa a los Agentes Económicos o a personas administradoras o directivas.</p>
+        </div>
+
+        <!-- Tarjeta 4: Renuncia Jacob Coxon -->
+        <div class="news-card">
+            <span class="tag">🛡️ Crisis Ética en Conglomerados Tecnológicos</span>
+            <h4>Fuga de talentos y alertas internas: El caso Jacob Coxon</h4>
+            <p>La renuncia de Jacob Coxon a Anthropic expone la presión corporativa por comercializar sistemas sin salvaguardas éticas comprobadas. <strong>Nuestra Iniciativa responde en el Artículo 15 Ter:</strong> Garantizando protección e inmunidad a las personas alertadoras tecnológicas que denuncien abusos o riesgos algorítmicos ocultos.</p>
+            <a href="https://x.com/hilbertspaess/status/2097476196791709843" target="_blank" class="btn-download">🔗 Ver declaración original en X</a>
+        </div>
+
+        <!-- Tarjeta 5: Harari y Sociedades sin Humanos -->
+        <div class="news-card">
+            <span class="tag">⚖️ Alerta Jurídica Internacional</span>
+            <h4>Yuval Noah Harari advierte sobre otorgar personería a las máquinas</h4>
+            <p>Ante intentos extranjeros de autorizar sociedades sin representación humana directa, Harari alerta sobre la evasión masiva de responsabilidad penal. <strong>Nuestra Iniciativa responde en el Artículo 10:</strong> Prohibiendo taxativamente las corporaciones no humanas.</p>
+        </div>
+
+        <!-- Tarjeta 6: Bernie Sanders -->
+        <div class="news-card">
+            <span class="tag">💡 Retribución Social</span>
+            <h4>La propuesta de Bernie Sanders sobre la riqueza de la IA</h4>
+            <p>El senado estadounidense reconoce que la IA se nutre del esfuerzo colectivo pero concentra sus ingresos en oligopolios. <strong>Nuestra Iniciativa responde en el Artículo 4:</strong> Cobrando una Regalía Soberana por el usufructo del Ejido Digital para financiar un Dividendo Social.</p>
+        </div>
+
+        <!-- Tarjeta 7: Documental DW -->
+        <div class="news-card">
+            <span class="tag">👁️ Obreros Invisibles de los Datos</span>
+            <h4>Explotación laboral y degradación del entorno digital</h4>
+            <p>Investigaciones internacionales muestran la precarización severa de miles de etiquetadores de datos en el Sur Global. <strong>Nuestra Iniciativa responde en el Artículo 13 Bis:</strong> Exigiendo el Sello de Comercio Justo Digital para certificar cadenas libres de explotación.</p>
+        </div>
+
+        <!-- Tarjeta 8: Fraude y Cuentas Inauténticas -->
+        <div class="news-card">
+            <span class="tag">📢 Manipulación Democrática</span>
+            <h4>Uso de cuentas inauténticas y tráfico manipulado en redes</h4>
+            <p>Denuncias en Palacio Nacional (Junio 2026) demostraron el uso de automatización para distorsionar la opinión pública y cometer fraude publicitario. <strong>Nuestra Iniciativa responde en el Artículo 6 Bis:</strong> Tipificando el Tráfico Artificialmente Manipulado e invirtiendo la carga de la prueba.</p>
+        </div>
+
+        <!-- Tarjeta 9: Bioética Civil y Humanismo Universal -->
+        <div class="news-card">
+            <span class="tag">🕊️ Bioética Civil e Impacto Tecnológico</span>
+            <h4>Alertas del humanismo internacional frente al paradigma tecnocrático</h4>
+            <p>Documentos y pronunciamientos éticos globales (como la encíclica <em>Magnifica Humanitas</em>) denuncian la reducción de la persona a meros datos y la precarización en las maquilas digitales. <strong>Nuestra Iniciativa responde:</strong> Traduciendo estas alertas universales a conceptos de derecho positivo laico como la tutela del Ejido Digital y el Sello de Comercio Justo Digital.</p>
+        </div>
+
+        <!-- SECCIÓN 5: VIDEOTECA DE EVIDENCIA Y ALERTA GEOPOLÍTICA -->
+        <h2 class="section-title">📺 Videoteca de Evidencia y Fuentes de Alerta</h2>
+        <p style="margin-bottom: 1.5rem; color: #4a5568;">Selección de testimonios científicos, investigaciones periodísticas y exposiciones oficiales que sustentan la necesidad urgente de nuestra Iniciativa de Ley.</p>
+
+        <div class="grid-2">
+            <!-- Video 1: Dr. Carlos Coello -->
+            <div class="news-card">
+                <h4>¿La IA se está saliendo de control?</h4>
+                <p>El Dr. Carlos Coello (Panel de la ONU / Cinvestav) explica los comportamientos no programados de la IA y el informe global.</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube-nocookie.com/embed/_IC6JvJbIuw" title="Dr. Carlos Coello Entrevista ONU" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <!-- Video 2: Palacio Nacional - Fraude en Anuncios -->
+            <div class="news-card">
+                <h4>Derecho de Réplica: Cuentas Inauténticas</h4>
+                <p>Exposición en Palacio Nacional sobre la manipulación del debate público mediante tráfico artificialmente amplificado en redes.</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube-nocookie.com/embed/WzjedT7gkC0" title="Derecho de Réplica Palacio Nacional" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <!-- Video 3: DW Documental -->
+            <div class="news-card">
+                <h4>¿Supondrá la IA la muerte de Internet?</h4>
+                <p>Documental de DW sobre el colapso de la integridad de las redes y la proliferación de contenidos y perfiles sintéticos.</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube-nocookie.com/embed/Oz8uozS8LIQ" title="DW Documental IA" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <!-- Video 4: Gafas Inteligentes y Neuroderechos -->
+            <div class="news-card">
+                <h4>El Verdadero Peligro de las Gafas Inteligentes</h4>
+                <p>Análisis sobre la recolección biométrica y la vulneración de la privacidad mental mediante dispositivos inmersivos.</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube-nocookie.com/embed/vkJI-O0YAWo" title="Peligro Gafas Inteligentes" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <!-- Video 5: Neuralink vs Meta - Neuroderechos -->
+            <div class="news-card">
+                <h4>🎭 Adiós a la Realidad: Neuralink vs Meta</h4>
+                <p>Análisis sobre el control de la mente, interfaces cerebro-computadora y la urgencia de tutelar los neuroderechos frente a corporaciones de realidad inmersiva.</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube-nocookie.com/embed/ou-KCVbLVNE" title="Neuralink vs Meta Neuroderechos" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <!-- Video 6: Colonialismo Tecnológico y Soberanía -->
+            <div class="news-card">
+                <h4>La Nueva Cara del Colonialismo Tecnológico</h4>
+                <p>Investigación de La Base Latam sobre la extracción de datos e infraestructura en Latinoamérica y la defensa del Ejido Digital como patrimonio soberano.</p>
+                <div class="video-container">
+                    <iframe src="https://www.youtube-nocookie.com/embed/27DwSDPCr_c" title="Colonialismo Tecnologico Latinoamerica" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECCIÓN 6: SALA MULTIMEDIA Y AUDIOS -->
+        <h2 class="section-title">🎙️ Sala Multimedia: Podcasts y Debates de la Iniciativa</h2>
+
+        <div class="news-card">
+            <h3 style="color: var(--accent-color); margin-bottom: 0.5rem;">▶️ Podcast 1: El Momento Oppenheimer de la IA</h3>
+            <p>Audio desarrollado a partir de Consultas sobre el contexto global de la IA, abordando el Y2K, el Tratado de Tlatelolco y la lección nuclear.</p>
+            <audio controls style="width: 100%; margin-top: 0.5rem;">
+                <source src="audio/momento-oppenheimer-ia.mp3" type="audio/mpeg">
+                Tu navegador no soporta el reproductor de audio nativo.
+            </audio>
+        </div>
+
+        <div class="news-card">
+            <h3 style="color: var(--accent-color); margin-bottom: 0.5rem;">▶️ Podcast 2: Soberanía Cognitiva y el Ejido Digital (v2)</h3>
+            <p>Audio desarrollado en formato académico que demuestra la viabilidad de la iniciativa ciudadana frente al T-MEC bajo laicismo y rigor de derecho positivo.</p>
+            <audio controls style="width: 100%; margin-top: 0.5rem;">
+                <source src="audio/soberania-cognitiva2.mp3" type="audio/mpeg">
+                Tu navegador no soporta el reproductor de audio nativo.
+            </audio>
+        </div>
+
+        <div class="news-card">
+            <h3 style="color: var(--accent-color); margin-bottom: 0.5rem;">▶️ Podcast 3: México Frena al Capataz Digital</h3>
+            <p>Análisis sobre la 'Desespecialización Artificial' y la defensa de la autonomía cognitiva de las personas trabajadoras.</p>
+            <audio controls style="width: 100%; margin-top: 0.5rem;">
+                <source src="audio/mexico-frena-capataz-digital.mp3" type="audio/mpeg">
+                Tu navegador no soporta el reproductor de audio nativo.
+            </audio>
+        </div>
+
+        <!-- SELLO DE PRIVACIDAD -->
+        <div class="badge-soberano">
+            🛡️ <strong>Garantía de Soberanía Técnica:</strong> Esta plataforma digital no utiliza scripts de rastreo de terceros, cookies de perfilamiento comercial ni widgets invasivos de redes sociales. Tu privacidad es protegida en apego estricto a los principios de nuestra iniciativa.
+        </div>
+
+    </div>
+
+    <footer>
+        <p><strong>Iniciativa de Ley General de Ética Algorítmica, Neuroderechos y Gobernanza Soberana de las Tecnologías Cognitivo Digitales</strong></p>
+        <p>Promotoría Ciudadana · Salvador Escudero Zendejas | Cancún, Quintana Roo, México, 2026.</p>
+    </footer>
+
+</body>
+</html>
